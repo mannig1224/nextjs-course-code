@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.css";
 
-function Home() {
+function HomePage() {
   return (
     <div className={styles.container}>
       <h1>Hello Next World!</h1>
@@ -8,4 +8,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default HomePage;
